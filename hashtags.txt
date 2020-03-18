@@ -1,4 +1,4 @@
-“person”:[“people",love","art","portrait","happy","life","man","photography","follow","like","human","instagood","fashion","drawing","instagram","smile","artist","style","photo","face","cute","me","lifestyle","you","girl","photooftheday","d","fun","bhfyp”],
+Tags={“person”:[“people",love","art","portrait","happy","life","man","photography","follow","like","human","instagood","fashion","drawing","instagram","smile","artist","style","photo","face","cute","me","lifestyle","you","girl","photooftheday","d","fun","bhfyp”],
 
 
 “bicycle”:[cycling","bike","bikelife","cyclinglife","mtb","roadbike","cyclist","cyclingphotos","mountainbike","cycle","bicicleta","ciclismo","bikes","velo","bici","instabike","bikeporn","mtblife","ride","roadcycling","sport","instacycling","bmx","cyclingshots","bicycles","nature","cyclingpics","strava","bhfyp”],
@@ -265,4 +265,4 @@
 ],
 “potplants”:[
 “houseplants”,”flowers”,”kvety”,”kv”,”ty”,”rastliny”,”closeup”,”izboverastliny”,”brandnewpictures”,”indoorplants”,”christmas”,”homedecor”,”euphorbia”,”nofilter”,”euphorbiapulcherrima”,”vianoce”,”vanoce”,”vianocnaruza”,”vianocnahviezda”,”easytogrow”,”euphorbiaflower”,”realcolors”
-]
+]}
